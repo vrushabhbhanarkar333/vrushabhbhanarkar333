@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vrushabh Bhanarkar</h1>
 <h3 align="center">A Passionate App Developer from India</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vrushabh-bhanarkar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<h3 align="left">Objective:</h3>
+<p align="left">
+  I am a dedicated and detail-oriented app developer with a strong background in mobile app development using Flutter, Android, and React Native. My objective is to build efficient, scalable, and user-friendly applications that solve real-world problems. I am passionate about continuously learning and leveraging the latest technologies to create impactful digital solutions.
 </p>
 
 <h3 align="left">Skills:</h3>
@@ -16,6 +17,16 @@
     <li>🛠 <b>Other Technologies:</b> MongoDB, Google Maps Integration, UI/UX Design from Figma</li>
   </ul>
 </p>
+
+<h3 align="left">Projects:</h3>
+<p align="left">
+  Here are some of the app development projects I've worked on:
+</p>
+<ul>
+  <li><b>Event Listing App:</b> A mobile application that allows users to browse and register for events. Integrated RESTful APIs for dynamic event listings and Firebase for backend services.</li>
+  <li><b>Social Media App:</b> Developed a social media application featuring real-time messaging, profile management, and media sharing. Implemented using Flutter and Firebase.</li>
+  <li><b>Technician App (Diginova):</b> An app for technicians to manage tasks, meetings, events, and attendance. Included features like chat options, leave application, and on-duty/off-duty tracking.</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,4 +43,3 @@
 <h3 align="left">Support:</h3>
 <p>If you like what I do, consider buying me a coffee:</p>
 <p><a href="https://ko-fi.com/yourusername" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi5.png?v=2" height="40" alt="Buy Me A Coffee at ko-fi.com" /></a></p>
-
