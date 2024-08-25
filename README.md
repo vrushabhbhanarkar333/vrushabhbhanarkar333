@@ -23,9 +23,9 @@
   Here are some of the app development projects I've worked on:
 </p>
 <ul>
-  <li><b>Event Listing App:</b> A mobile application that allows users to browse and register for events. Integrated RESTful APIs for dynamic event listings and Firebase for backend services.</li>
-  <li><b>Social Media App:</b> Developed a social media application featuring real-time messaging, profile management, and media sharing. Implemented using Flutter and Firebase.</li>
-  <li><b>Technician App (Diginova):</b> An app for technicians to manage tasks, meetings, events, and attendance. Included features like chat options, leave application, and on-duty/off-duty tracking.</li>
+  <li><b>Shoutout: Event Listing App:</b> A mobile application that allows users to browse and register for events. Integrated RESTful APIs for dynamic event listings and Firebase for backend services.</li>
+  <li><b>Bluemercury: Social Media App:</b> Developed a social media application featuring real-time messaging, profile management, and media sharing. Implemented using Flutter and Firebase.</li>
+  <li><b>Diginova: Technician App:</b> An app for technicians to manage tasks, meetings, events, and attendance. Included features like chat options, leave application, and on-duty/off-duty tracking.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
