@@ -54,7 +54,7 @@ An enterprise-level app for field technicians with task management, attendance t
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect...
 
 - 📫 Email: vrushabhbhanarkar3@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vrushabh-bhanarkar/)  
